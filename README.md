@@ -2,7 +2,7 @@
 
 Welcome to read my blog
 
-[blog](nullskymc.site)
+[blog](Http://nullskymc.site)
 
 
 
