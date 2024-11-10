@@ -1,4 +1,4 @@
-# Some notebook for Personal Deeplearning Practice
+# Some notebook for Personal Deeplearning Practice.
 
 Welcome to read my blog
 
